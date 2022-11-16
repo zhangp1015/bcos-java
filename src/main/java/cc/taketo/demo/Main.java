@@ -20,7 +20,7 @@ public class Main {
         BcosSDK bcosSDK = BCOSUtil.getBcosSDK();
         Client client = bcosSDK.getClient(1);
         BlockNumber blockNumber = client.getBlockNumber();
-        System.out.println(blockNumber);
+        System.out.println(blockNumber.getBlockNumber());
         bcosSDK.stopAll();
     }
 }

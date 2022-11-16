@@ -20,7 +20,7 @@ certPath = "conf"                           # The certification path
 
 [network]
 #peers=["127.0.0.1:20200", "127.0.0.1:20201"]    # The peer list to connect
-peers=["192.168.10.172:20200", "192.168.10.172:20201", "192.168.10.172:20202", "192.168.10.172:20203"]
+peers=["192.168.31.221:20200", "192.168.31.222:20200", "192.168.31.223:20200", "192.168.31.224:20200"]
 
 # AMOP configuration
 # You can use following two methods to configure as a private topic message sender or subscriber.
