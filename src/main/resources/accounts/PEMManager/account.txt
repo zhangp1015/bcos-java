@@ -1,0 +1,3 @@
+[INFO] Account Address   : 0xa98248d21cbb3fabdc462af8932a6fbad54364cc
+[INFO] Private Key (pem) : accounts/0xa98248d21cbb3fabdc462af8932a6fbad54364cc.pem
+[INFO] Public  Key (pem) : accounts/0xa98248d21cbb3fabdc462af8932a6fbad54364cc.pem.pub

@@ -1,0 +1,6 @@
+[INFO] Note: the entered password cannot contain Chinese characters!
+Enter Export Password:123456
+Verifying - Enter Export Password:123456
+[INFO] Account Address   : 0xc671d7a2ef1f4165aa4814b0c4053dd2646c56d0
+[INFO] Private Key (p12) : accounts/0xc671d7a2ef1f4165aa4814b0c4053dd2646c56d0.p12
+[INFO] Public  Key (pem) : accounts/0xc671d7a2ef1f4165aa4814b0c4053dd2646c56d0.pem.pub
